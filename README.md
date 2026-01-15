@@ -35,25 +35,16 @@ The system supports **peer-to-peer payments**, **merchant QR payments**, and **b
 
 ## 🖼️ Product Screenshots
 
-> Add images inside the `assets/` folder and link them here.
+![Home Screen](https://github.com/user-attachments/assets/8066eb83-b8f5-49c5-8aac-bd96571b6f7e)
+![Second Screenshot](https://github.com/user-attachments/assets/5ba898b3-f340-4b0c-9133-35012fe9cdc1)
 
-```md
-![Home Screen](assets/home.png)
-https://github.com/user-attachments/assets/8066eb83-b8f5-49c5-8aac-bd96571b6f7e
-<img width="1334" height="639" alt="2nd" src="https://github.com/user-attachments/assets/5ba898b3-f340-4b0c-9133-35012fe9cdc1" />
+![User Dashboard](https://github.com/user-attachments/assets/26765271-272c-4e81-9ad4-4f5b7eb616b4)
+![Fourth Screenshot](https://github.com/user-attachments/assets/ca9328ee-52ef-4482-8229-16b1816be4cf)
 
-![User Dashboard](assets/dashboard.png)
-<img width="1351" height="644" alt="3rd" src="https://github.com/user-attachments/assets/26765271-272c-4e81-9ad4-4f5b7eb616b4" />
-<img width="1352" height="645" alt="4rth" src="https://github.com/user-attachments/assets/ca9328ee-52ef-4482-8229-16b1816be4cf" />
-
-![Prisma Database](assets/Database.png)
-<img width="1364" height="649" alt="5th" src="https://github.com/user-attachments/assets/675d5cab-b5f3-4cf0-be47-21131f0a903b" />
-<img width="1362" height="639" alt="6th" src="https://github.com/user-attachments/assets/903e6cee-bcbc-4192-8f20-d4632a30dcc4" />
-<img width="1363" height="643" alt="7th" src="https://github.com/user-attachments/assets/0cb9d200-f692-467f-8cd8-b6e558c95bf8" />
-<img width="1365" height="623" alt="8th" src="https://github.com/user-attachments/assets/b3a375a1-238f-488f-aa74-076c983100cb" />
-
-
-```
+![Prisma Database](https://github.com/user-attachments/assets/675d5cab-b5f3-4cf0-be47-21131f0a903b)
+![Sixth Screenshot](https://github.com/user-attachments/assets/903e6cee-bcbc-4192-8f20-d4632a30dcc4)
+![Seventh Screenshot](https://github.com/user-attachments/assets/0cb9d200-f692-467f-8cd8-b6e558c95bf8)
+![Eighth Screenshot](https://github.com/user-attachments/assets/b3a375a1-238f-488f-aa74-076c983100cb)
 
 ---
 
@@ -291,6 +282,7 @@ MIT License
 
 **Gaurav Kamble**
 Full-Stack Engineer
+
 
 
 
