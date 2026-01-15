@@ -39,7 +39,7 @@ The system supports **peer-to-peer payments**, **merchant QR payments**, and **b
 
 ```md
 ![Home Screen](assets/home.png)
-<img width="1357" height="650" alt="1st" src="https://github.com/user-attachments/assets/8066eb83-b8f5-49c5-8aac-bd96571b6f7e" />
+https://github.com/user-attachments/assets/8066eb83-b8f5-49c5-8aac-bd96571b6f7e
 <img width="1334" height="639" alt="2nd" src="https://github.com/user-attachments/assets/5ba898b3-f340-4b0c-9133-35012fe9cdc1" />
 
 ![User Dashboard](assets/dashboard.png)
@@ -291,6 +291,7 @@ MIT License
 
 **Gaurav Kamble**
 Full-Stack Engineer
+
 
 
 
