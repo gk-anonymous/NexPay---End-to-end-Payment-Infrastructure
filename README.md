@@ -52,7 +52,7 @@ The system supports **peer-to-peer payments**, **merchant QR payments**, and **b
 
 > Upload your demo video and link it below.
 
-```md
+
 
 
 
@@ -60,7 +60,6 @@ https://github.com/user-attachments/assets/88a46502-a5b6-48d7-b4a5-5c967c51bddd
 
 
 
-```
 
 ---
 
@@ -282,6 +281,7 @@ MIT License
 
 **Gaurav Kamble**
 Full-Stack Engineer
+
 
 
 
