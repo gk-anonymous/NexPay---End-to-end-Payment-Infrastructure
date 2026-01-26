@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 26, 2026, 07_50_31 AM" src="https://github.com/user-attachments/assets/c5ed6618-40cb-451b-970a-01b0a850745b" />
+
 # 💳 Paytm-Style Digital Payments Platform
 
 > A full-stack digital payments system supporting user transfers, merchant payments, QR-based transactions, secure on-ramp/off-ramp flows, and scalable financial infrastructure.
@@ -281,6 +284,7 @@ MIT License
 
 **Gaurav Kamble**
 Full-Stack Engineer
+
 
 
 
